@@ -1,0 +1,35 @@
+.step{
+    display: flex;
+    width: 110%;
+    margin-top: -46px;
+	background-repeat: no-repeat;
+}
+
+.step__img{
+    margin-top: -30px;
+    margin-left: 68px;
+}
+
+.step__list{
+   display: flex;
+   list-style-type: none;
+}
+
+.step__item{
+    padding: 10px;
+    margin-left: 23px;
+}
+
+.step__word{
+    width: 250px;
+    color: #000;
+    font-size: 18px;
+}
+
+.step__inner{
+    display: flex;
+}
+
+.step__logo{
+    margin-left: 20px;
+}

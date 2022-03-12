@@ -1,0 +1,30 @@
+.input{
+    width: 291px;
+    height: 36px;
+    border: 2px solid rgba(255, 255, 255, 0.4);
+    box-sizing: border-box;
+    border-radius: 50px;
+    background-color: #36302BFF;
+}
+
+.button{
+    width: 123px;
+    height: 36px;
+    text-align: center;
+    background-color: #36302BFF;
+    padding: 5px;
+    border: 2px solid #FF1640;
+    font-size: 14px;
+    box-sizing: border-box;
+    border-radius: 50px;
+    border-radius: none;
+    margin-left: 20px;
+    color: #FFFFFF66;
+}
+
+.chek{
+    display: none;
+    background-image: url(../images/On.png);
+    width: 53px;
+    height: 43px;
+}

@@ -1,0 +1,105 @@
+.footer{
+    background-image: url(../images/bg-footer.jpg);
+    width: 100%;
+    height: 460px;
+    background-repeat:  no-repeat;
+    background-size: cover;
+}
+
+.footer__logo{
+    margin-left: -70px;
+    margin-top: 55px;
+}
+
+.footer__text{
+    font-size: 18px;
+}
+
+.footer__list{
+    display: flex;
+    flex-direction: column;
+    margin-left: 340px;
+    margin-top: -40px;
+    list-style-type: none;
+}
+.footer__item{
+    margin-bottom: 16px;
+}
+.footer__text{
+    color: #fff;
+}
+
+.footer__link{
+    font-size: 18px;
+    color: #fff;
+    text-decoration: none;
+}
+
+.wrpper__list{
+    margin-top: -125px;
+    margin-left: 530px;
+    list-style-type: none;
+}
+.wrpper__item{
+    margin-bottom: 11px;
+}
+.wrpper__text{
+    font-size: 18px;
+    color: #fff;
+}
+
+.wrpper__link{
+    color: #fff;
+    opacity: 0.7;
+    text-decoration: none;
+}
+
+.box__list{
+    margin-left: 700px;
+    margin-top: -70px;
+    list-style-type: none;
+}
+.box__item{
+    margin-bottom: 16px;
+
+}
+.box__text{
+    color: #fff;
+    font-size: 18px;
+}
+.box__link{
+    color: #fff;
+    text-decoration: none;
+}
+
+.footer__iconka{
+    margin-left: 1100px;
+    margin-top: -100px;
+}
+
+.footer__img{
+    margin-left: 15px;
+}
+
+.footer__word{
+    font-size: 20px;
+    color: #fff;
+}
+
+.end{
+    background-image: url(../images/Rectangle.png);
+    width: 410px;
+    height: 56px;
+    margin-left: 500px;
+    margin-top: 200px;
+    background-repeat: no-repeat;
+}
+
+.end__word{
+    color: #000000;
+    font-size: 28px;
+}
+
+.smile{
+    margin-left: 11px;
+}

@@ -1,0 +1,29 @@
+.hero{
+    width: 1200px;
+    height: 1500px;
+    transform: translateY(-490px);
+    padding: 30px;
+    margin-left: 200px;
+    background: linear-gradient(180deg, rgba(50, 42, 39, 0) 0%, rgba(45, 40, 40, 0.85) 33.85%, #2D2828 49.48%, #2D2828 68.75%, #2D2828 82.29%, #2D2828 100%);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    box-sizing: border-box;
+    box-shadow: -15px 0px 15px rgba(0, 0, 0, 0.3);
+}
+
+.hero__text{
+    color: #fff;
+    font-size: 64px;
+    line-height: 89px;
+}
+
+.hero__word{
+    color: #fff;
+    margin-top: -35px;
+    font-size: 20px;
+    line-height: 28px;
+}
+
+.hero__words{
+    width: 450px;
+    color: #fff;
+}
